@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>info</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4ac73ce2-336d-4b11-8d60-003e3fbda061</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>6070c120-440f-46ef-bb91-b266cf32bf1e</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>6070c120-440f-46ef-bb91-b266cf32bf1e</id>
+      <masked>false</masked>
+      <name>isoCode</name>
+   </variable>
+</TestCaseEntity>

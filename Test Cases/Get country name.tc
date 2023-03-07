@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Get country name</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6fc1df9f-097c-4e5b-9eac-ff07d8f196d5</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>7218700f-a8a1-453c-9a77-15b0e36f8030</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/New Test Data</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>7218700f-a8a1-453c-9a77-15b0e36f8030</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>isoCode</value>
+      <variableId>960f9aac-52b0-4f94-9f1d-2314c4be9bf6</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>960f9aac-52b0-4f94-9f1d-2314c4be9bf6</id>
+      <masked>false</masked>
+      <name>isoCode</name>
+   </variable>
+</TestCaseEntity>
